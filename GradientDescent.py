@@ -13,3 +13,5 @@ while stepSize > precision and iteration < maxIterations:
     iteration = iteration + 1
     print("Iteration ",iteration,"\nX value is: ", xVal)
 print("The local minimum occurs at", xVal)
+
+#Gradient Descent that finds the minimum of a function
