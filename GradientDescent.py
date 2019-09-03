@@ -1,6 +1,6 @@
 xVal = 10
 rate = 0.2
-precision = 0.000000000000000000000001
+precision = 0.000000001
 stepSize = 1
 maxIterations = 1000
 iteration = 0
